@@ -10,7 +10,7 @@ const mock = require('./mock');
         console.log(getData);
         // getData.title = 'Teste';
         // const updateData = await products.update({ id: 862222 }, getData);
-        console.log(updateData);
+        // console.log(updateData);
     } catch (e) {
         console.log(e.response.data);
     }

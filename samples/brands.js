@@ -18,11 +18,13 @@ const mock = require('./mock');
         // const updateData = await anymarket.brands.update({ id: 144270 }, { name: 'Nome da marca Editado 3' });
         // console.log('updateData', updateData);
 
-        const data = await anymarket.brands.create({
-            name: 'Teste de marca'
-        });
+        // const data = await anymarket.brands.update(144295, {
+        //     id: 144295,
+        //     name: 'Teste de marca 333',
+        // });
 
-        console.log(data);
+        // console.log(data);
+        // anymarket.brands.delete(144295);
 
     } catch (e) {
         console.log(e.toString());

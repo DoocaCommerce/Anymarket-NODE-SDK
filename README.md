@@ -1,3 +1,7 @@
+# SDK for Anymarket HUB
+
+## Documentation [http://developers.anymarket.com.br/tools.html](http://developers.anymarket.com.br/tools.html)
+
 # Usage
 
 ```
@@ -9,11 +13,11 @@ const anymartket = require('anymarket-sdk');
 
 anymarket.configure({
 	mode: 'sandbox',
-	gumgaToken: 'XXX',
+	gumgaToken: '{gumgaToken}',
 });
 ```
 
-#### Sample
+Sample
 
 ```javascript
 const anymartket = require('anymarket-sdk');
@@ -27,7 +31,7 @@ try {
 }
 ```
 
-or `getFirst` sample
+Or `getFirst` sample
 
 ```javascript
 const { brands } = require('anymarket-sdk');
@@ -146,7 +150,7 @@ images.delete({ id: productId, imageId: imageId });
 ```javascript
 const { stocks } = require('anymarket-sdk');
 
-stocks.update([Array{Object}]); // array of objects
+stocks.update({Object}[]); // array of objects
 ```
 
 #### <a id="orders"></a>Orders

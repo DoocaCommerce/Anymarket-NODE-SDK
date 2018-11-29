@@ -1,6 +1,6 @@
 {
 	"name": "@doocacommerce/anymarket-sdk",
-	"version": "1.0.1-beta",
+	"version": "1.0.0-beta.3",
 	"description": "SDK for Requests of Anymarket HUB",
 	"main": "index.js",
 	"homepage": "https://github.com/DoocaCommerce/Anymarket-NODE-SDK#readme",
