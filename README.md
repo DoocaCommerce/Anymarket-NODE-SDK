@@ -1,8 +1,13 @@
 # SDK for Anymarket HUB
+[![npm version](https://img.shields.io/npm/v/@doocacommerce/anymarket-sdk.svg?style=flat-square)](https://www.npmjs.org/package/axios)
+[![npm downloads](https://img.shields.io/npm/dm/@doocacommerce/anymarket-sdk.svg?style=flat-square)](http://npm-stat.com/charts.html?package=axios)
+[![install size](https://flat.badgen.net/packagephobia/install/@doocacommerce/anymarket-sdk)](https://flat.badgen.net/packagephobia/install/@doocacommerce/anymarket-sdk)
+[![license](https://flat.badgen.net/npm/license/@doocacommerce/anymarket-sdk)](https://flat.badgen.net/npm/license/@doocacommerce/anymarket-sdk)
 
-## Documentation [http://developers.anymarket.com.br/tools.html](http://developers.anymarket.com.br/tools.html)
 
-# Usage
+### Documentation [http://developers.anymarket.com.br/tools.html](http://developers.anymarket.com.br/tools.html)
+
+## Usage
 
 ```
 $ sudo yarn add anymarket-sdk
@@ -45,9 +50,9 @@ try {
 }
 ```
 
-# Development
+## Development
 
-### Available methods of SDK request:
+#### Available methods of SDK request:
 
 -   [brands](#brands) / [Marca](http://developers.anymarket.com.br/v2/index.html#!/Marca)
 -   [categories](#categories) / [Categoria](http://developers.anymarket.com.br/v2/index.html#!/Categoria)
