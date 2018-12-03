@@ -1,6 +1,6 @@
 # SDK for Anymarket HUB
-[![npm version](https://img.shields.io/npm/v/@doocacommerce/anymarket-sdk.svg?style=flat-square)](https://www.npmjs.org/package/axios)
-[![npm downloads](https://img.shields.io/npm/dm/@doocacommerce/anymarket-sdk.svg?style=flat-square)](http://npm-stat.com/charts.html?package=axios)
+[![npm version](https://img.shields.io/npm/v/@doocacommerce/anymarket-sdk.svg?style=flat-square)](https://www.npmjs.org/package/@doocacommerce/anymarket-sdk)
+[![npm downloads](https://img.shields.io/npm/dm/@doocacommerce/anymarket-sdk.svg?style=flat-square)](http://npm-stat.com/charts.html?package=@doocacommerce/anymarket-sdk)
 [![install size](https://flat.badgen.net/packagephobia/install/@doocacommerce/anymarket-sdk)](https://flat.badgen.net/packagephobia/install/@doocacommerce/anymarket-sdk)
 [![license](https://flat.badgen.net/npm/license/@doocacommerce/anymarket-sdk)](https://flat.badgen.net/npm/license/@doocacommerce/anymarket-sdk)
 
