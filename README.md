@@ -10,7 +10,11 @@
 ## Usage
 
 ```
-$ sudo yarn add anymarket-sdk
+$ sudo yarn add @doocacommerce/anymarket-sdk
+```
+or
+```
+$ sudo npm i @doocacommerce/anymarket-sdk
 ```
 
 ```javascript
